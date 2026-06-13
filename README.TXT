@@ -5,8 +5,6 @@ Game Labirin Berbasis Greenfoot adalah game 2D yang dikembangkan menggunakan fra
 
 Pemain harus menyelesaikan setiap level dengan strategi, ketepatan gerakan, dan kecepatan dalam mengambil keputusan untuk mencapai kemenangan.
 
----
-
 ## 🎮 Fitur Game
 - Karakter utama yang dapat dikendalikan pemain
 - Musuh (ghost) dengan pergerakan otomatis
@@ -16,8 +14,6 @@ Pemain harus menyelesaikan setiap level dengan strategi, ketepatan gerakan, dan 
 - Menu utama (Start, Help, Exit)
 - Kondisi menang dan kalah (Game Over & You Win)
 - Efek suara (sound effect)
-
----
 
 ## 🧠 Teknologi yang Digunakan
 - Java (Object-Oriented Programming / OOP)
@@ -37,7 +33,6 @@ Pemain harus menyelesaikan setiap level dengan strategi, ketepatan gerakan, dan 
 6. Klik tombol **Run** untuk memulai game
 7. Gunakan tombol **Reset** jika ingin mengulang permainan
 
----
 
 ## 🎮 Cara Bermain
 
@@ -46,8 +41,6 @@ Pemain harus menyelesaikan setiap level dengan strategi, ketepatan gerakan, dan 
 - Hindari musuh (ghost) agar tidak kalah
 - Selesaikan setiap level untuk memenangkan permainan
 
----
-
 ## 🎯 Tujuan Game
 Game ini dibuat untuk:
 - Mempelajari konsep Pemrograman Berorientasi Objek (OOP)
@@ -55,4 +48,3 @@ Game ini dibuat untuk:
 - Melatih logika, strategi, dan algoritma dasar
 - Memahami event-driven programming menggunakan Greenfoot
 
----
