@@ -21,8 +21,6 @@ Pemain harus menyelesaikan setiap level dengan strategi, ketepatan gerakan, dan 
 - Visual assets (images & sprites)
 - Audio / sound system Greenfoot
 
----
-
 ## 🚀 Cara Menjalankan Game
 
 1. Buka aplikasi **Greenfoot**
@@ -32,7 +30,6 @@ Pemain harus menyelesaikan setiap level dengan strategi, ketepatan gerakan, dan 
 5. Pastikan world utama adalah `menu_play_game`
 6. Klik tombol **Run** untuk memulai game
 7. Gunakan tombol **Reset** jika ingin mengulang permainan
-
 
 ## 🎮 Cara Bermain
 
